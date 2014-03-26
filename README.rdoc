@@ -1,0 +1,5 @@
+== README
+
+Projeto Exemplo da aula 07 do curso de Ruby on Rails para iniciantes.
+
+Playlist do curso: http://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP
